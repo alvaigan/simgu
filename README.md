@@ -1,2 +1,2 @@
 # simgu
-Sistem informasi managemen gudang
+Sistem informasi managemen gudang, project pkl yang sedang dikerjakan
